@@ -11,3 +11,5 @@ Backend: Node.js, Express
 Database: SQLite (using sqlite3 npm module)
 
 Deployment: Local (runs via node server.js)
+
+OUTPUT:
